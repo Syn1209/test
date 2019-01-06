@@ -2,3 +2,5 @@ pretty pretty
 well well
 good good
 verygood
+beautiful
+pretty
