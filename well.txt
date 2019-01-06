@@ -1,6 +1,7 @@
 pretty pretty
 well well
 good good
+pretty good
 verygood
 beautiful
 pretty
